@@ -1,6 +1,8 @@
 # pythonEdu
+## 실습테마
+ - 현금흐름 할인 모형을 기반으로 확률적 부채 계산하기: 이자율 유동성 리스크 프리미엄의 확률분포를 반영한 몬테카를로 시뮬레이션
 
-# 실습환경: Google, Google Colab, Google Drive
+## 실습환경: Google, Google Colab, Google Drive
  - [ ] 준비사항1: Google 계정 로그인 상태 확인
  - [ ] 준비사항2: Google Colab 접속 가능 상태 확인
  - [ ] 준비사항3: Google Drive 접속 가능 상태 확인
